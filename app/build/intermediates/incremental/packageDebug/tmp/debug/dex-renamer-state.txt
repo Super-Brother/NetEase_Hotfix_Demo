@@ -1,0 +1,7 @@
+#Sun Jul 21 22:33:30 GMT+08:00 2019
+base.0=F\:\\AndroidStudioProjects\\NetEase_Hotfix_Demo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=F\:\\AndroidStudioProjects\\NetEase_Hotfix_Demo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out

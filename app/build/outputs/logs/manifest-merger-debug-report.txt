@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\3773adae84dc2658ccd192e82c9b6f39\AndroidManifest.xml:17:1-22:12
+MERGED from [:Library] F:\AndroidStudioProjects\NetEase_Hotfix_Demo\Library\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3e5cec10b1ae33e69293148ed0831df3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\471be6994171d426f74b2582f1abcd6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8522bd2e72093d9a5f5a3f63233f0c23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a018604bf824885f576a0c177ec2696e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\676eeaaf3a91025bf89909ab77bef8c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\86f4abaeef224c092ab84189172b8b00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\871cc7cc51496d9001a4e454c18bd220\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\608fd47640b81b564b88a9fdcff24975\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\6a4386f98aa859410f42d5680881a081\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\afc283c15c190d721b88caf3cdac938b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\2e4849170a5b1360470f66fc60fa4a9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\05e95d1635afdd25ca890520a0b22e0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\04c43e9672d5d16e4e58c28a68df0e74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7ba7af7fdf2098f43d19fd557c19a5ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d0d4d79f968f0d1fdf2ea4f6feeb07b3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c6d7e2c33e782999bfb109224db80461\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cafd33887957a85ac228c42a3ed856a6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4ee6498a31ed200a5c9871d95d26a512\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\2b02b71089ecace98466e4848e51aaac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6984eda5db36922ae464838dc8a761fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e0556f3f8d50ae3abcfa87f36027b4d3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\281c92c147023e81e8b40008c5d5082c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\703deda07ecd54a3e6fd57425c72ee77\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\905d30c2a84edcaca4bbc26ad2e6035c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b4c0ac062063ac0af5513f07567dee5a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\15906e09589d07ce746831ff0d49569a\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:7:22-77
+application
+ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d0d4d79f968f0d1fdf2ea4f6feeb07b3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d0d4d79f968f0d1fdf2ea4f6feeb07b3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c6d7e2c33e782999bfb109224db80461\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c6d7e2c33e782999bfb109224db80461\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d0d4d79f968f0d1fdf2ea4f6feeb07b3\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.netease.hotfix.demo.MainActivity
+ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.netease.hotfix.demo.activities.SecondActivity
+ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:24:9-63
+	android:name
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml:24:19-60
+uses-sdk
+INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
+INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\3773adae84dc2658ccd192e82c9b6f39\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\3773adae84dc2658ccd192e82c9b6f39\AndroidManifest.xml:20:5-43
+MERGED from [:Library] F:\AndroidStudioProjects\NetEase_Hotfix_Demo\Library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:Library] F:\AndroidStudioProjects\NetEase_Hotfix_Demo\Library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3e5cec10b1ae33e69293148ed0831df3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3e5cec10b1ae33e69293148ed0831df3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\471be6994171d426f74b2582f1abcd6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\471be6994171d426f74b2582f1abcd6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8522bd2e72093d9a5f5a3f63233f0c23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8522bd2e72093d9a5f5a3f63233f0c23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a018604bf824885f576a0c177ec2696e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\a018604bf824885f576a0c177ec2696e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\676eeaaf3a91025bf89909ab77bef8c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\676eeaaf3a91025bf89909ab77bef8c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\86f4abaeef224c092ab84189172b8b00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\86f4abaeef224c092ab84189172b8b00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\871cc7cc51496d9001a4e454c18bd220\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\871cc7cc51496d9001a4e454c18bd220\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\608fd47640b81b564b88a9fdcff24975\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\608fd47640b81b564b88a9fdcff24975\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\6a4386f98aa859410f42d5680881a081\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\6a4386f98aa859410f42d5680881a081\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\afc283c15c190d721b88caf3cdac938b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\afc283c15c190d721b88caf3cdac938b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\2e4849170a5b1360470f66fc60fa4a9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\2e4849170a5b1360470f66fc60fa4a9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\05e95d1635afdd25ca890520a0b22e0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\05e95d1635afdd25ca890520a0b22e0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\04c43e9672d5d16e4e58c28a68df0e74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\04c43e9672d5d16e4e58c28a68df0e74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7ba7af7fdf2098f43d19fd557c19a5ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7ba7af7fdf2098f43d19fd557c19a5ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d0d4d79f968f0d1fdf2ea4f6feeb07b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d0d4d79f968f0d1fdf2ea4f6feeb07b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c6d7e2c33e782999bfb109224db80461\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c6d7e2c33e782999bfb109224db80461\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cafd33887957a85ac228c42a3ed856a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cafd33887957a85ac228c42a3ed856a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4ee6498a31ed200a5c9871d95d26a512\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4ee6498a31ed200a5c9871d95d26a512\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\2b02b71089ecace98466e4848e51aaac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\2b02b71089ecace98466e4848e51aaac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6984eda5db36922ae464838dc8a761fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\6984eda5db36922ae464838dc8a761fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e0556f3f8d50ae3abcfa87f36027b4d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e0556f3f8d50ae3abcfa87f36027b4d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\281c92c147023e81e8b40008c5d5082c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\281c92c147023e81e8b40008c5d5082c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\703deda07ecd54a3e6fd57425c72ee77\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\703deda07ecd54a3e6fd57425c72ee77\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\905d30c2a84edcaca4bbc26ad2e6035c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\905d30c2a84edcaca4bbc26ad2e6035c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b4c0ac062063ac0af5513f07567dee5a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b4c0ac062063ac0af5513f07567dee5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\15906e09589d07ce746831ff0d49569a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\OMEN\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\15906e09589d07ce746831ff0d49569a\AndroidManifest.xml:20:5-44
+INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
+INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
+		ADDED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\NetEase_Hotfix_Demo\app\src\main\AndroidManifest.xml
